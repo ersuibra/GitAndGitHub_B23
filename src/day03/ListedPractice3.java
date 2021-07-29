@@ -5,5 +5,7 @@ public class ListedPractice3 {
         System.out.println("Loki was here");
         System.out.println("Loki was here");
         System.out.println("Loki was here");
+        System.out.println("Loki was here");
+        System.out.println("Loki was here");
     }
 }
