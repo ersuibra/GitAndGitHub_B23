@@ -8,6 +8,8 @@ public class ListPractice {
         System.out.println("Loki was here");
         System.out.println("Loki was here");
         System.out.println("Loki was here");
+        System.out.println("Loki was here");
+
 
 
 
