@@ -5,5 +5,6 @@ public class Conflict {
         System.out.println("Head to head");
         System.out.println("Read to head");
         System.out.println("Lead to head");
+        System.out.println("Fead to head");
     }
 }
